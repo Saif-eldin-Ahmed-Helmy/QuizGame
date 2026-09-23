@@ -16,3 +16,15 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+.idea/
+.gradle/
+.vscode/
+*.iml
+.devagent/
+.env
+.env.*
+!.env.example
+build/
+out/
+*.log
+logs/
